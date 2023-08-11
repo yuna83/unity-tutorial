@@ -354,6 +354,7 @@
 "Assets/unity interface/Script/SceneMove.cs"
 "Assets/unity interface/Sport Car - 3D model/Scripts/CameraScript.cs"
 "Assets/unity interface/Sport Car - 3D model/Scripts/LightEffects.cs"
+"Assets/Unity Light/Script/Calculator.cs"
 "Assets/Unity NavMash/Script/Agent.cs"
 "Assets/Unity NavMesh Obstacle/Player.cs"
 "Assets/Unity Prefab System/Script/Cube.cs"
