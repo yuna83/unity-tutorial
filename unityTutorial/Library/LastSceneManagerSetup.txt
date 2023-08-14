@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Unity Light/Scene/Light.unity
+- path: Assets/Unity PlayerPrefs/Scene/PlayerPrefs.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
