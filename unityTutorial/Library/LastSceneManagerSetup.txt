@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Unity PlayerPrefs/Scene/PlayerPrefs.unity
+- path: Assets/Unity Terrain/Scene/Terrain.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
