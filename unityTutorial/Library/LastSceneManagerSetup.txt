@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Unity Terrain/Scene/Terrain.unity
+- path: Assets/Unity Particle System/Scene/Particle System.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

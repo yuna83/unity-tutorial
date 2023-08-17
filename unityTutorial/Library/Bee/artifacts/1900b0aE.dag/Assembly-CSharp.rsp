@@ -357,6 +357,7 @@
 "Assets/Unity Light/Script/Calculator.cs"
 "Assets/Unity NavMash/Script/Agent.cs"
 "Assets/Unity NavMesh Obstacle/Player.cs"
+"Assets/Unity Particle System/Script/NewObject.cs"
 "Assets/Unity PlayerPrefs/Script/DataManager.cs"
 "Assets/Unity PlayerPrefs/Script/Parameter.cs"
 "Assets/Unity Prefab System/Script/Cube.cs"
